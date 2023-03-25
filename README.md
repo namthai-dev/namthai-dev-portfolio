@@ -1,3 +1,3 @@
 # Nam Thai's portfolio
 
-    https://namthai98.github.io/namthai98-portfolio/
+    https://namthai-dev.github.io/namthai-dev-portfolio/
