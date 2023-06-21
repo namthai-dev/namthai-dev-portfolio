@@ -1,3 +1,3 @@
 // Google Analytics Tracking ID
-// https://github.com/truethari/reactfolio#-google-analytics
+// https://support.google.com/analytics/answer/9539598?hl=en
 export const TRACKING_ID = "";

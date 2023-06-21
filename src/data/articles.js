@@ -2,15 +2,15 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		date: "22 June 2023",
+		title: "Integrated circuit design",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"Fundamental of hardware design",
 		keywords: [
-			"The Benefits of Cloud Computing",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"IC",
+			"ASIC",
+			"Verilog",
+			"HDL",
 		],
 		style: `
 				.article-content {
@@ -18,21 +18,12 @@ function article_1() {
 					flex-direction: column;
 					align-items: center;
 				}
-
-				.randImage {
-					align-self: center;
-					outline: 2px solid red;
-				}
 				`,
 		body: (
 			<React.Fragment>
 				<div className="article-content">
-					<div className="paragraph">Content of article 1</div>
-					<img
-						src="https://picsum.photos/200/300"
-						alt="random"
-						className="randImage"
-					/>
+					<div className="paragraph">Hardware development</div>
+					<p>Concept through to design and verification of Chip (SoC/ASIC), IP/Peripheral and CPU core by hardware description language (Verilog HDL) or High-Level language (C/C++)</p>
 				</div>
 			</React.Fragment>
 		),
@@ -41,20 +32,21 @@ function article_1() {
 
 function article_2() {
 	return {
-		date: "7 May 2023",
-		title: "Artificial Intelligence in Healthcare",
+		date: "22 June 2023",
+		title: "What is Artificial Intelligence?",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"Artificial intelligence (AI) is technology that is now trending and being implemented by innovative companies",
 		style: ``,
 		keywords: [
-			"Artificial Intelligence in Healthcare",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Artificial Intelligence",
+			"Nam",
+			"Nam Thai",
+			"Thai Vi Nam",
 		],
 		body: (
 			<React.Fragment>
-				<h1>Content of article 2</h1>
+				<h1>Artificial Intelligence</h1>
+				<p>Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems.</p>
 			</React.Fragment>
 		),
 	};

@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { PREFIX } from "../../App"
 
 import "./styles/footer.css";
 
@@ -10,26 +11,26 @@ const Footer = () => {
 				<div className="footer-links">
 					<ul className="footer-nav-link-list">
 						<li className="footer-nav-link-item">
-							<Link to="/">Home</Link>
+							<Link to={PREFIX + "/"}>Home</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/about">About</Link>
+							<Link to={PREFIX + "/about"}>About</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/projects">Projects</Link>
+							<Link to={PREFIX + "/projects"}>Projects</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/articles">Articles</Link>
+							<Link to={PREFIX + "/articles"}>Articles</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/contact">Contact</Link>
+							<Link to={PREFIX + "/contact"}>Contact</Link>
 						</li>
 					</ul>
 				</div>
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 Tharindu.dev. All Rights Reserved.
+						© 2023 nam.thai.dev. All Rights Reserved.
 					</div>
 				</div>
 			</div>

@@ -9,6 +9,7 @@ import Article from "../components/articles/article";
 import INFO from "../data/user";
 import SEO from "../data/seo";
 import myArticles from "../data/articles";
+import { PREFIX } from "../App";
 
 import "./styles/articles.css";
 
@@ -60,7 +61,7 @@ const Articles = () => {
 											date={article().date}
 											title={article().title}
 											description={article().description}
-											link={"/article/" + (index + 1)}
+											link={PREFIX + "/article/" + (index + 1)}
 										/>
 									</div>
 								))}
