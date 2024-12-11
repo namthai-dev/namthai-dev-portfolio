@@ -19,9 +19,9 @@ const Footer = () => {
 						<li className="footer-nav-link-item">
 							<Link to={PREFIX + "/projects"}>Projects</Link>
 						</li>
-						<li className="footer-nav-link-item">
+						{/* <li className="footer-nav-link-item">
 							<Link to={PREFIX + "/articles"}>Articles</Link>
-						</li>
+						</li> */}
 						<li className="footer-nav-link-item">
 							<Link to={PREFIX + "/contact"}>Contact</Link>
 						</li>
@@ -30,7 +30,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 nam.thai.dev. All Rights Reserved.
+						© 2025 nam.thai.dev. All Rights Reserved.
 					</div>
 				</div>
 			</div>

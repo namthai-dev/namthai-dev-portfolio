@@ -15,20 +15,20 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/ac4e792eabbada0c6c30563d6e3c88e5.jpg"
-								alt="rvc"
+								src="https://media.licdn.com/dms/image/v2/C560BAQETuT-lsggdEg/company-logo_100_100/company-logo_100_100/0/1642506809740/delta_cognition_logo?e=1741824000&v=beta&t=O6AXWb3u1ztT_KLypHjf9kfNh-ATJVSbuwXGliPmWrE"
+								alt="dc"
 								className="work-image"
 							/>
-							<div className="work-title">Renesas Design Vietnam Co., Ltd</div>
+							<div className="work-title">Delta Cognition</div>
 							<div className="work-subtitle">
-								Hardware Engineer
+								Software Engineer
 							</div>
-							<div className="work-duration">2020 - 2022</div>
+							<div className="work-duration">2023 - Present</div>
 						</div>
 
 						<div className="work">
 							<img
-								src="https://media.licdn.com/dms/image/C560BAQG1UnVUcD5XVA/company-logo_100_100/0/1650856320979?e=1695254400&v=beta&t=wTJlcjWJzuwjCnarUKIhX7gZYS8k7ATbfdvcusKDbyM"
+								src="https://media.licdn.com/dms/image/v2/C560BAQG1UnVUcD5XVA/company-logo_100_100/company-logo_100_100/0/1650856321402/cpaytechnology_logo?e=1741824000&v=beta&t=1biWRA5EfLUrpBaaJnLcLEFY-N9hR1InM7bpgFLjwvE"
 								alt="cpay"
 								className="work-image"
 							/>
@@ -41,15 +41,17 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="https://media.licdn.com/dms/image/C560BAQETuT-lsggdEg/company-logo_100_100/0/1642506809289?e=1695254400&v=beta&t=t92B0XKdE9X_-rVXbNN-TBvSdegkKVDLL8GARDPSB_o"
-								alt="dc"
+								src="https://media.licdn.com/dms/image/v2/D560BAQFEX9-Jr-Xm1Q/company-logo_200_200/company-logo_200_200/0/1719618871832/renesas_logo?e=1741824000&v=beta&t=oSiMB_zBXLO6pXQ-nHP7cbsSPDEE4QjaDPlmJRUuV_Y"
+								alt="rvc"
 								className="work-image"
 							/>
-							<div className="work-title">Delta Cognition</div>
-							<div className="work-subtitle">
-								Software Engineer
+							<div className="work-title">
+								Renesas Design Vietnam Co., Ltd
 							</div>
-							<div className="work-duration">2023 - Present</div>
+							<div className="work-subtitle">
+								Hardware Engineer
+							</div>
+							<div className="work-duration">2020 - 2022</div>
 						</div>
 					</div>
 				}

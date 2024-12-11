@@ -16,8 +16,8 @@ const SEO = [
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"None.",
+		keywords: ["Nam Thai", "namthai-dev", "Thai Vi Nam"],
 	},
 
 	{
