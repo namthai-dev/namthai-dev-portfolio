@@ -49,7 +49,7 @@ const INFO = {
 		{
 			title: "Self-driving-car",
 			description:
-				"Self-driving car with convolutional neural network (CNN)",
+				"Self-driving car with convolutional neural network (CNN).",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg",
 			linkText: "View Project",
 			link: "https://github.com/namthai-dev/self-driving-car",
@@ -64,15 +64,32 @@ const INFO = {
 			link: "https://github.com/namthai-dev/streamlit-flower-classification",
 		},
 
-		// {
-		// 	title: "React web app",
-		// 	description:
-		// 		"React web app with TypeScript and Tailwind",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png",
-		// 	linkText: "View Project",
-		// 	link: "https://github.com/namthai-dev/react-web-app",
-		// },
+		{
+			title: "SmartDocRAG",
+			description:
+				"RAG with Ollama and Streamlit.",
+			logo: "https://www.svgrepo.com/show/354113/nextjs-icon.svg",
+			linkText: "View Project",
+			link: "https://github.com/namthai-dev/SmartDocRAG",
+		},
 
+		{
+			title: "Scriptum",
+			description:
+				"Documentation and collaboration tool.",
+			logo: "https://www.svgrepo.com/show/354113/nextjs-icon.svg",
+			linkText: "View Project",
+			link: "https://github.com/namthai-dev/Scriptum",
+		},
+
+		{
+			title: "LiveBotStore",
+			description:
+				"E-commerce store with AI assistant.",
+			logo: "https://www.svgrepo.com/show/354113/nextjs-icon.svg",
+			linkText: "View Project",
+			link: "https://github.com/namthai-dev/LiveBotStore",
+		},
 	],
 };
 
