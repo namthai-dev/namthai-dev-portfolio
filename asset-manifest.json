@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/namthai-dev-portfolio/static/css/main.02b06618.css",
-    "main.js": "/namthai-dev-portfolio/static/js/main.b2c76b98.js",
-    "static/js/787.06471a1d.chunk.js": "/namthai-dev-portfolio/static/js/787.06471a1d.chunk.js",
+    "main.css": "/namthai-dev-portfolio/static/css/main.f7a39fcf.css",
+    "main.js": "/namthai-dev-portfolio/static/js/main.cd47afbd.js",
+    "static/js/973.cb74aea4.chunk.js": "/namthai-dev-portfolio/static/js/973.cb74aea4.chunk.js",
     "index.html": "/namthai-dev-portfolio/index.html",
-    "main.02b06618.css.map": "/namthai-dev-portfolio/static/css/main.02b06618.css.map",
-    "main.b2c76b98.js.map": "/namthai-dev-portfolio/static/js/main.b2c76b98.js.map",
-    "787.06471a1d.chunk.js.map": "/namthai-dev-portfolio/static/js/787.06471a1d.chunk.js.map"
+    "main.f7a39fcf.css.map": "/namthai-dev-portfolio/static/css/main.f7a39fcf.css.map",
+    "main.cd47afbd.js.map": "/namthai-dev-portfolio/static/js/main.cd47afbd.js.map",
+    "973.cb74aea4.chunk.js.map": "/namthai-dev-portfolio/static/js/973.cb74aea4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02b06618.css",
-    "static/js/main.b2c76b98.js"
+    "static/css/main.f7a39fcf.css",
+    "static/js/main.cd47afbd.js"
   ]
 }
