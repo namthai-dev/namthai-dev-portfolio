@@ -23,8 +23,7 @@ const INFO = {
 
 	about: {
 		title: "I’m Nam Thai. I am living in Ho Chi Minh city, where I design the future.",
-		description:
-			`I am an engineer with a strong background in Software and AI applications, passionate about applying Artificial Intelligence and Machine Learning to solve next-generation challenges. With over 3 years of hands-on experience in web and mobile application development, I specialize in building solutions that enhance efficiency, automation, and user experience.
+		description: `I am an engineer with a strong background in Software and AI applications, passionate about applying Artificial Intelligence and Machine Learning to solve next-generation challenges. With over 3 years of hands-on experience in web and mobile application development, I specialize in building solutions that enhance efficiency, automation, and user experience.
 			I have extensive experience in frontend development, working with JavaScript, TypeScript, React, Next.js, Redux, and TailwindCSS to build responsive and user-friendly interfaces. On the backend, I use Python (with FastAPI), Node.js, and databases like PostgreSQL and MongoDB. I also work with message queues such as RabbitMQ and Celery to ensure high-performance, scalable backend systems.
 			For CI/CD and DevOps, I am skilled in using GitHub and GitHub Actions for version control and continuous integration, Docker for containerization, and Nginx for web server management. Additionally, I have hands-on experience with Ubuntu as my development environment.
 			Beyond technical skills, I also bring project management experience, including breaking down client requirements into actionable tasks, managing small teams, and ensuring timely delivery using Agile methodologies. My passion lies in integrating AI and ML with real-world applications, delivering innovative solutions that drive efficiency and create value for clients.`,
@@ -57,8 +56,7 @@ const INFO = {
 
 		{
 			title: "Flower Classification",
-			description:
-				"Flower Classification with Streamlit.",
+			description: "Flower Classification with Streamlit.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/namthai-dev/streamlit-flower-classification",
@@ -66,17 +64,15 @@ const INFO = {
 
 		{
 			title: "SmartDocRAG",
-			description:
-				"RAG with Ollama and Streamlit.",
-			logo: "https://www.svgrepo.com/show/354113/nextjs-icon.svg",
+			description: "RAG with Ollama and Streamlit.",
+			logo: "https://avatars.githubusercontent.com/u/45109972?s=200&v=4",
 			linkText: "View Project",
 			link: "https://github.com/namthai-dev/SmartDocRAG",
 		},
 
 		{
 			title: "Scriptum",
-			description:
-				"Documentation and collaboration tool.",
+			description: "Documentation and collaboration tool.",
 			logo: "https://www.svgrepo.com/show/354113/nextjs-icon.svg",
 			linkText: "View Project",
 			link: "https://github.com/namthai-dev/Scriptum",
@@ -84,8 +80,7 @@ const INFO = {
 
 		{
 			title: "LiveBotStore",
-			description:
-				"E-commerce store with AI assistant.",
+			description: "E-commerce store with AI assistant.",
 			logo: "https://www.svgrepo.com/show/354113/nextjs-icon.svg",
 			linkText: "View Project",
 			link: "https://github.com/namthai-dev/LiveBotStore",
